@@ -23,7 +23,7 @@ print "-------------------------------------------------------------------------
 print "Write some informations about the target like his/her names, family names initials, "
 print "significant dates, numbers, pets, birthdays, hometown, school name or mascot"
 print "---------------------------------------------------------------------------------------"
-print "press enter to continue"
+
 
 
 
