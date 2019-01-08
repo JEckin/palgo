@@ -322,7 +322,7 @@ for a in xrange(len(var4)) :
                                 #4231
                                 pasadd(temp)
         for b in xrange(len(var3)):
-                temp = var4[a] + var3[c]
+                temp = var4[a] + var3[b]
                 #43
                 pasadd(temp)
                 for c in xrange(len(var1)):
