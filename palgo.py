@@ -20,8 +20,8 @@ print "           |____|    (____  /____/\\___  / \\____/"
 print "                          \\/     /_____/        " 
 print "                                                   By BreaBrain"
 print "---------------------------------------------------------------------------------------"
-print "Write some informations about the target like his/her names, family names initials, "
-print "significant dates, numbers, pets, birthdays, hometown, school name or mascot"
+print "Write some informations about the target person like his/her names, family names,  "
+print "initials, significant dates, numbers, pets, birthdays, hometown, school name or mascot"
 print "---------------------------------------------------------------------------------------"
 
 
