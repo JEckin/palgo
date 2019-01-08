@@ -14,7 +14,7 @@ os.system("clear")
 print "------------------------------------------------------------------"
 print "__________        .__                  "
 print "\\______   \\_____  |  |    ____   ____ " 
-print " |     ___/\\__  \\ |  |   / ___\\ /  _\\ " 
+print " |     ___/\\__  \\ |  |   / ___\\ /  _ \\ " 
 print " |    |     / __ \\|  |__/ /_/  >  <_> )"
 print " |____|    (____  /____/\\___  / \\____/" 
 print "                \\/     /_____/        " 
@@ -40,7 +40,7 @@ if x == "true":
 x="false"
 var2 = []
 while x != "true":
-        temp = raw_input("Birthdays: ")
+        temp = raw_input("Numbers: ")
         if temp == "":
                 x="true"
         #print(temp)
