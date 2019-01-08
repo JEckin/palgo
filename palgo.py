@@ -342,5 +342,8 @@ for a in xrange(len(var4)) :
                                 #4321
                                 pasadd(temp)
 os.system("clear")
-print "the password text-file is finished"
+print "-------------------------------------------------------------------------"
+print "                                 finished"
+print "------------------------------------------------------------------------"
 os.system("ls -l")
+
