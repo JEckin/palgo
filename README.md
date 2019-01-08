@@ -1,0 +1,3 @@
+# palgo
+
+Inteligent password creator
