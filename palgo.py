@@ -4,7 +4,7 @@ import os
 
 def pasadd (add) :
         #print(add)
-        temp="echo " +  add + " >> password.txt"
+        temp="echo " +  add + " >> palgo.txt"
         print(temp)
         os.system(temp)
 
@@ -343,7 +343,7 @@ for a in xrange(len(var4)) :
                                 pasadd(temp)
 os.system("clear")
 print "-------------------------------------------------------------------------"
-print "                                 finished"
-print "------------------------------------------------------------------------"
+print "                           finished > palgo.txt"
+print "-------------------------------------------------------------------------"
 os.system("ls -l")
 
