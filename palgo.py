@@ -341,3 +341,6 @@ for a in xrange(len(var4)) :
                                 temp = var4[a] + var3[b] + var2[c] + var1[d]
                                 #4321
                                 pasadd(temp)
+os.system("clear")
+print "the password text-file is finished"
+os.system("ls -l password.txt")
