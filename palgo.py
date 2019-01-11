@@ -3,9 +3,9 @@ import os
 
 
 def pasadd (add) :
-        #print(add)
+        print(add)
         temp="echo " +  add + " >> palgo.txt"
-        print(temp)
+        #print(temp)
         os.system(temp)
 
 
