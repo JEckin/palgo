@@ -69,8 +69,8 @@ print"Variable2:        ",var2
 print"Variable3:        ",var3
 print"Sonderzeichen:    ",var4
 
-os.system("rm password.txt")
-os.system("touch password.txt")
+os.system("rm palgo.txt")
+os.system("touch palgo.txt")
 
 
 for a in xrange(len(var1)) :
