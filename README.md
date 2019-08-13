@@ -1,4 +1,4 @@
-# palgo
+# Palgo
 
 Create a Password list for Dictionary Attacks
 
