@@ -43,6 +43,7 @@ def main() :
 
 def func() :
 	print("Just Wait...")
+	print("Do Ctrl + C for Stop")
 	try:
 		os.remove("palgo-big.txt")
 		os.system("touch palgo-big.txt")

@@ -71,6 +71,7 @@ def main() :
 
 def func() :
         print("Just Wait...")
+	print("Do Ctrl + C for Stop")
         try:
                 os.remove("palgo-small.txt")
                 os.system("touch palgo-small.txt")
