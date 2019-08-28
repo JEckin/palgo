@@ -13,18 +13,18 @@ def pasadd (add) :
 def main() :
 	os.system("clear")
 
-	print "---------------------------------------------------------------------------------------"
-	print "          __________        .__                  "
-	print "          \\______   \\_____  |  |    ____   ____ "
-	print "           |     ___/\\__  \\ |  |   / ___\\ /  _ \\ "
-	print "           |    |     / __ \\|  |__/ /_/  >  <_> )"
-	print "           |____|    (____  /____/\\___  / \\____/"
-	print "                          \\/     /_____/        "
-	print "                                                   By JEckin"
-	print "---------------------------------------------------------------------------------------"
-	print "Write some informations about the target person like his/her names, family names,  "
-	print "initials, significant dates, numbers, pets, birthdays, hometown, school name or mascot"
-	print "---------------------------------------------------------------------------------------"
+	print("---------------------------------------------------------------------------------------")
+	print("          __________        .__                  ")
+	print("          \\______   \\_____  |  |    ____   ____ ")
+	print("           |     ___/\\__  \\ |  |   / ___\\ /  _ \\ ")
+	print("           |    |     / __ \\|  |__/ /_/  >  <_> )")
+	print("           |____|    (____  /____/\\___  / \\____/")
+	print("                          \\/     /_____/        ")
+	print("                                                   By JEckin")
+	print("---------------------------------------------------------------------------------------")
+	print("Write some informations about the target person like his/her names, family names,  ")
+	print("initials, significant dates, numbers, pets, birthdays, hometown, school name or mascot")
+	print("---------------------------------------------------------------------------------------")
 
 
 
@@ -63,10 +63,10 @@ def main() :
 
 	var4 = ["!","?","@"]
 
-	print"Variable1:        ",var1
-	print"Variable2:        ",var2
-	print"Variable3:        ",var3
-	print"Sonderzeichen:    ",var4
+	print("Variable1:        ",var1)
+	print("Variable2:        ",var2)
+	print("Variable3:        ",var3)
+	print("Sonderzeichen:    ",var4)
 	func()
 
 def func() :
@@ -348,9 +348,9 @@ def func() :
 	end()
 def end() :
 	os.system("clear")
-	print "-------------------------------------------------------------------------"
-	print "                           finished > palgo-small.txt"
-	print "-------------------------------------------------------------------------"
+	print("-------------------------------------------------------------------------")
+	print("                           finished > palgo-small.txt")
+	print("-------------------------------------------------------------------------")
 	os.system("ls -lh palgo-small.txt")
 
 try:
