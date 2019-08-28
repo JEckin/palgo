@@ -4,6 +4,14 @@ Create a Password list for Dictionary Attacks
 
 Use only Palgo-big if Palgo-small doesn't work
 
+```
+python palgo-small.py
+```
+or
+```
+python palgo-big.py
+```
+
 # Palgo Small
 
 First write some Names from the Target and press 2x enter
